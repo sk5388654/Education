@@ -1,0 +1,2908 @@
+[
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "muneebm361@gmail.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Muhammad",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Muhammad Muneeb",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-11-05 10:43:12.342260",
+  "last_ip": "59.103.86.242",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.87.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.85.1\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.52.1\"}}",
+  "last_login": "2025-11-04 18:20:48.636959",
+  "last_name": "Muneeb",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": null,
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2025-11-04 18:20:50.157820",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "muneebm361@gmail.com",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Academics User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Expense Approver"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Workspace Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Auditor"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Interviewer"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Blogger"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Support Team"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales User"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Translator"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Analytics"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Master Manager"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "muneebm361@gmail.com",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "f7f2fa09d7564268258cc41621f663adf27a829",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": "https://secure.gravatar.com/avatar/a6f9ad039355301a1040dd8ca67e05c8?d=404&s=200",
+  "user_type": "System User",
+  "username": "muhammad",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "admin@example.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Administrator",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Administrator",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": null,
+  "last_active": "2025-12-11 18:36:01.538401",
+  "last_ip": "10.0.0.153",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.87.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.85.1\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.52.1\"}}",
+  "last_login": "2025-12-10 16:08:16.160526",
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": null,
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2025-12-01 12:05:38.572156",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "Administrator",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Master Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase Master Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Maintenance User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Sales User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Purchase User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Accounts User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Newsletter Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Blogger"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Editor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Knowledge Base Contributor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Prepared Report User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Translator"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Inbox User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Script Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Report Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Workspace Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Dashboard Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Website Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "System Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Academics User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fulfillment User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Delivery User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Auditor"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Support Team"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Quality Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Fleet Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Stock Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Analytics"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Projects Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Item Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Agriculture User"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Manufacturing Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Delivery Manager"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HOP"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HOD"
+   },
+   {
+    "parent": "Administrator",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Finance"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [],
+  "thread_notify": 0,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "administrator",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": null,
+  "block_modules": [],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "guest@example.com",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Guest",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Guest",
+  "gender": null,
+  "home_settings": null,
+  "interest": null,
+  "language": null,
+  "last_active": null,
+  "last_ip": null,
+  "last_known_versions": null,
+  "last_login": null,
+  "last_name": null,
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": null,
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": null,
+  "mobile_no": null,
+  "modified": "2025-11-04 18:20:41.471550",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "Guest",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": null,
+  "redirect_url": null,
+  "reset_password_key": null,
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "Guest",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Guest"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [],
+  "thread_notify": 0,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "Website User",
+  "username": "guest",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1995-02-12",
+  "block_modules": [
+   {
+    "module": "Accounts",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Attendance Module",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Buying",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Core",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "EDI",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Global Conifgurations",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hashoo Design",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ZK Device",
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "arfaa.sabbah@hashoofoundation.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Arfaa",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Arfaa Sabbah",
+  "gender": "Female",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-12-01 18:50:03.953267",
+  "last_ip": "192.168.11.206",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-12-01 18:31:05.571657",
+  "last_name": "Sabbah",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-11-20 12:17:56.687721",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "",
+  "mobile_no": null,
+  "modified": "2025-11-21 12:23:29.869534",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "arfaa.sabbah@hashoofoundation.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "3497006468",
+  "redirect_url": null,
+  "reset_password_key": "553cbba6752e82e5ab82beb7953300d3caa510a3282b63762ed78a2547b4a26f",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "arfaa.sabbah@hashoofoundation.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "a89e7605be025b96cd07709dac35fc2ef621361",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "arfaa",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1985-01-10",
+  "block_modules": [
+   {
+    "module": "Accounts",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Attendance Module",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Buying",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Core",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "EDI",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Global Conifgurations",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hashoo Design",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ZK Device",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "khalidabibi@hashoofoundation.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Khalida",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Khalida Bibi",
+  "gender": "Female",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-12-01 18:51:24.991400",
+  "last_ip": "192.168.11.206",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-12-01 18:51:24.485873",
+  "last_name": "Bibi",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-11-20 12:32:32.963836",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "",
+  "mobile_no": null,
+  "modified": "2025-11-24 09:58:16.907674",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "khalidabibi@hashoofoundation.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "3379726049",
+  "redirect_url": null,
+  "reset_password_key": "8727aa824564017b8588961cf8d77791e5d1b0c7531175197baf58e85af0b0de",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HOD"
+   },
+   {
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Expense Approver"
+   },
+   {
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "khalidabibi@hashoofoundation.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "c989a44e8a2b561fc317cba2ed31f2a8355fc82",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "khalida",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": "ef04df6d988c2cf",
+  "api_secret": "***************",
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1994-03-04",
+  "block_modules": [
+   {
+    "module": "Accounts",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Attendance Module",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Buying",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Core",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "EDI",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Global Conifgurations",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hashoo Design",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ZK Device",
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "ahmadullah@hashoofoundation.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Ahmed",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Ahmed Ullah",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-11-24 09:59:16.588815",
+  "last_ip": "192.168.11.176",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-11-24 09:59:15.973691",
+  "last_name": "Ullah",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-11-20 12:42:30.410600",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "",
+  "mobile_no": null,
+  "modified": "2025-12-02 11:44:55.093935",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "ahmadullah@hashoofoundation.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "3119986650",
+  "redirect_url": null,
+  "reset_password_key": "d94c113640144373da3ef146f8313b853f338b95dd0a5e8ee235442d3bbd16ed",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Line Manager"
+   },
+   {
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   },
+   {
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Expense Approver"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "ahmadullah@hashoofoundation.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "686bfd3bb9ffc466160be1cfff3ad764c95a9a1",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "ahmed",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1992-07-01",
+  "block_modules": [
+   {
+    "module": "Accounts",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Attendance Module",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Buying",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Core",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "EDI",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Global Conifgurations",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hashoo Design",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ZK Device",
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "faisalali@hashoohunar.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Faisal",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Faisal Ali",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-11-24 11:22:59.710960",
+  "last_ip": "192.168.11.176",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-11-24 11:22:58.280185",
+  "last_name": "Ali",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-11-20 12:44:30.316194",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "",
+  "mobile_no": null,
+  "modified": "2025-11-24 09:58:15.746427",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "faisalali@hashoohunar.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "3475114402",
+  "redirect_url": null,
+  "reset_password_key": "1c837823e7a5141525e0738216ca19eeb83e3d253397ffd20858adb33a8e71c1",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "faisalali@hashoohunar.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "e4f144d55e9e7b84da3e92cde75a23bbda38768",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "faisal",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1982-02-19",
+  "block_modules": [
+   {
+    "module": "Accounts",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Attendance Module",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Buying",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Core",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "EDI",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Global Conifgurations",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hashoo Design",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Payroll",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ZK Device",
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "haris.qayyum@hashoofoundation.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Haris",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Haris Khan",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-12-01 19:48:54.312552",
+  "last_ip": "192.168.11.206",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"payroll_module\": {\"title\": \"Payroll Module\", \"description\": \"An application to extend functionality of payroll erpnext.\", \"branch\": \"main\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-12-01 18:52:25.149980",
+  "last_name": "Khan",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-11-20 15:53:45.278703",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "Qayyum",
+  "mobile_no": null,
+  "modified": "2025-12-01 15:35:52.227676",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "haris.qayyum@hashoofoundation.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "3018595666",
+  "redirect_url": null,
+  "reset_password_key": "3feeae769e1bd9543698d5c1ac680930d34b93936d8d4a9b35494ddb9dbd3171",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "CEO"
+   },
+   {
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   },
+   {
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Leave Approver"
+   },
+   {
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Expense Approver"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "haris.qayyum@hashoofoundation.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "6d159f0fa0ab23d2b9285815626a2ac814f6d21",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "haris",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": null,
+  "api_secret": null,
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1981-03-28",
+  "block_modules": [],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "abdulwaheed@hashoofoundation.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Abdul",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Abdul Waheed",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-12-01 18:51:46.073797",
+  "last_ip": "192.168.11.206",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"payroll_module\": {\"title\": \"Payroll Module\", \"description\": \"An application to extend functionality of payroll erpnext.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"recruitment_module\": {\"title\": \"Recruitment Module\", \"description\": \"Recruitment and applicant tracking module.\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"accounts_module\": {\"title\": \"Accounts Module\", \"description\": \"Accounting & Finanace\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"project_module\": {\"title\": \"Project Module\", \"description\": \"Project Management System\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"hr_module\": {\"title\": \"Hr Module\", \"description\": \"HR related customizations\", \"branch\": \"develop\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-12-01 18:51:45.126217",
+  "last_name": "Waheed",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-12-01 15:33:23.137486",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "",
+  "mobile_no": null,
+  "modified": "2025-12-01 15:34:06.923162",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "abdulwaheed@hashoofoundation.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "3355180846",
+  "redirect_url": null,
+  "reset_password_key": "4cb5ba296aa58369f0dd6adda19258b45bac22ada79225a28bb528c1f34a05b2",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "abdulwaheed@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   },
+   {
+    "parent": "abdulwaheed@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HOD"
+   },
+   {
+    "parent": "abdulwaheed@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Finance"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "abdulwaheed@hashoofoundation.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "c94e1d58dcf91d2d971ae4b65e1851aba60cc12",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": "abdul",
+  "view_switcher": 1
+ },
+ {
+  "allowed_in_mentions": 1,
+  "api_key": "9d865eae8998695",
+  "api_secret": "***************",
+  "banner_image": null,
+  "bio": null,
+  "birth_date": "1982-09-25",
+  "block_modules": [
+   {
+    "module": "Accounts",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Accounts Module",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Assets",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Attendance Module",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Automation",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Bulk Transaction",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Buying",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Communication",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Contacts",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Core",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "CRM",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Custom",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Desk",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "EDI",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Email",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ERPNext Integrations",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Geo",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Global Conifgurations",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Hashoo Design",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Integrations",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Maintenance",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Manufacturing",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Portal",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Printing",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Project Module",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Projects",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Quality Management",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Regional",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Selling",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Setup",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Social",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Stock",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Subcontracting",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Support",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Telephony",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Utilities",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Website",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Workflow",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "ZK Device",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   },
+   {
+    "module": "Recruitment Module",
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "block_modules",
+    "parenttype": "User"
+   }
+  ],
+  "bulk_actions": 1,
+  "bypass_restrict_ip_check_if_2fa_enabled": 0,
+  "dashboard": 1,
+  "default_app": null,
+  "default_workspace": null,
+  "defaults": [],
+  "desk_theme": "Light",
+  "docstatus": 0,
+  "doctype": "User",
+  "document_follow_frequency": "Daily",
+  "document_follow_notify": 0,
+  "email": "aamiriqbal@hashoofoundation.org",
+  "email_signature": null,
+  "enabled": 1,
+  "first_name": "Muhammad",
+  "follow_assigned_documents": 0,
+  "follow_commented_documents": 0,
+  "follow_created_documents": 0,
+  "follow_liked_documents": 0,
+  "follow_shared_documents": 0,
+  "form_sidebar": 1,
+  "full_name": "Muhammad Iqbal",
+  "gender": "Male",
+  "home_settings": null,
+  "interest": null,
+  "language": "en",
+  "last_active": "2025-12-10 22:48:46.990668",
+  "last_ip": "192.168.11.206",
+  "last_known_versions": "{\"frappe\": {\"title\": \"Frappe Framework\", \"description\": \"Full stack web framework with Python, Javascript, MariaDB, Redis, Node\", \"branch\": \"version-15\", \"version\": \"15.79.0\"}, \"erpnext\": {\"title\": \"ERPNext\", \"description\": \"ERP made simple\", \"branch\": \"version-15\", \"version\": \"15.77.0\"}, \"hrms\": {\"title\": \"Frappe HR\", \"description\": \"Modern HR and Payroll Software\", \"branch\": \"version-15\", \"version\": \"15.49.1\"}, \"hashoo_design\": {\"title\": \"Hashoo Design\", \"description\": \"An application for design configuration of `Hashoo Foundation`.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"attendance_module\": {\"title\": \"Attendance Module\", \"description\": \"The Attendance Module is a core component of the Human Resource Management System (HRMS) that enables organizations to efficiently track, manage, and analyze employee attendance, working hours, and time-off records. It provides a centralized platform to record employee presence, leaves, and absenteeism while integrating seamlessly with payroll and performance systems.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"global_conifgurations\": {\"title\": \"Global Conifgurations\", \"description\": \"Global Conifgurations\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"payroll_module\": {\"title\": \"Payroll Module\", \"description\": \"An application to extend functionality of payroll erpnext.\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"recruitment_module\": {\"title\": \"Recruitment Module\", \"description\": \"Recruitment and applicant tracking module.\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"accounts_module\": {\"title\": \"Accounts Module\", \"description\": \"Accounting & Finanace\", \"branch\": \"main\", \"version\": \"0.0.1\"}, \"project_module\": {\"title\": \"Project Module\", \"description\": \"Project Management System\", \"branch\": \"develop\", \"version\": \"0.0.1\"}, \"hr_module\": {\"title\": \"Hr Module\", \"description\": \"HR related customizations\", \"branch\": \"develop\", \"version\": \"0.0.1\"}}",
+  "last_login": "2025-12-01 18:52:05.729658",
+  "last_name": "Iqbal",
+  "last_password_reset_date": null,
+  "last_reset_password_key_generated_on": "2025-12-01 15:35:49.224402",
+  "list_sidebar": 1,
+  "location": null,
+  "login_after": 0,
+  "login_before": 0,
+  "logout_all_sessions": 1,
+  "middle_name": "Aamir",
+  "mobile_no": null,
+  "modified": "2025-12-10 16:10:09.155660",
+  "module_profile": null,
+  "mute_sounds": 0,
+  "name": "aamiriqbal@hashoofoundation.org",
+  "new_password": "",
+  "notifications": 1,
+  "onboarding_status": "{}",
+  "phone": "0334 0778778",
+  "redirect_url": null,
+  "reset_password_key": "ae5f517f6ae43a8bc09b2f304c046c4ac826c9f7b05cd71067af9e01e5a8383d",
+  "restrict_ip": null,
+  "role_profile_name": null,
+  "roles": [
+   {
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "Employee"
+   },
+   {
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR Manager"
+   },
+   {
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "roles",
+    "parenttype": "User",
+    "role": "HR User"
+   }
+  ],
+  "search_bar": 1,
+  "send_me_a_copy": 0,
+  "send_welcome_email": 1,
+  "simultaneous_sessions": 2,
+  "social_logins": [
+   {
+    "parent": "aamiriqbal@hashoofoundation.org",
+    "parentfield": "social_logins",
+    "parenttype": "User",
+    "provider": "frappe",
+    "userid": "bf407f71130fa6ba34e6066b8ccf05a0e481e08",
+    "username": null
+   }
+  ],
+  "thread_notify": 1,
+  "time_zone": "Asia/Karachi",
+  "timeline": 1,
+  "unsubscribed": 0,
+  "user_emails": [],
+  "user_image": null,
+  "user_type": "System User",
+  "username": null,
+  "view_switcher": 1
+ }
+]
